@@ -2,7 +2,7 @@
 
 PoC files for five vulnerabilities in Ambxst and axctl.
 
-Reported privately to the maintainer on September 8, 2026. This repository goes public on December 7, 2026, when the 90-day window ends.
+Reported privately to the maintainer on September 8, 2026.
 
 Write-up: <https://bnn.dev/blog/trust-but-grep>
 
